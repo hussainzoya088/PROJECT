@@ -1,0 +1,12 @@
+/* BudgetProgress.css */
+.progress-bar {
+    width: 100%;
+    height: 20px;
+    background-color: #ddd;
+  }
+  
+  .progress {
+    height: 100%;
+    background-color: #4caf50;
+  }
+  
